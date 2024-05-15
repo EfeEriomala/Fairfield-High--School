@@ -1,0 +1,49 @@
+.bg-img{
+    background-image: url(../images/Prep_Pride_Store.jpg);
+    
+}
+
+
+.ml{
+    margin-left: 400px;
+}
+.ml-1{
+    margin-left: 330px;
+}
+.pb-6{
+    padding-bottom: 80px;
+}
+i:hover{
+    color: crimson !important;
+    background-color: white ;
+}
+.mt-6{
+    margin-top: 20%;
+    font-family: sans-serif;
+}
+
+
+.fs-7{
+    font-size: 5rem;
+}
+.fs-8{
+    font-size: 1.5rem;
+}
+.margin-left{
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.fs-9{
+    font-size: 2.5rem;
+}
+
+a:hover{
+    background-color: rgb(241, 125, 125);
+}
+.fs-7{
+    font-size: 5rem;
+}
+.bg-orange{
+    background-color: crimson;
+}
+

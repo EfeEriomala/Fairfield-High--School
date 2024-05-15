@@ -1,0 +1,21 @@
+.text-yellow{
+   color: yellow;
+}
+.pl{
+    padding-left: 100px ;
+}
+.ml{
+    margin-left: 300px;
+}
+a:hover{
+    color: yellow !important;
+    background-color: white;
+}
+i:hover{
+    color:black;
+    background-color: yellow;
+}
+.bg-yellow{
+    color: white;
+    background-color: yellow;
+}
